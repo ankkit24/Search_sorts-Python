@@ -1,0 +1,4 @@
+#binary search - only for a sorted array
+# can convert an array to a sorted one and then search in it
+#time complexity is O(log n) which is less than O(n)
+# a balanced tree is a tree where the difference of the sub trees of a node is atmost one.
